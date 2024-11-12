@@ -13,6 +13,6 @@ This demo only shows everyone's project. There are some shortcomings, please poi
 
 
 
-![image-20241112171657830](C:\Users\ASUS-P\AppData\Roaming\Typora\typora-user-images\image-20241112171657830.png)
+gantt1.jpg
 
 ![image-20241112171739469](C:\Users\ASUS-P\AppData\Roaming\Typora\typora-user-images\image-20241112171739469.png)
