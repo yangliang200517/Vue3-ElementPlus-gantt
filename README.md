@@ -13,6 +13,4 @@ This demo only shows everyone's project. There are some shortcomings, please poi
 
 
 
-gantt1.jpg
-
-![image-20241112171739469](C:\Users\ASUS-P\AppData\Roaming\Typora\typora-user-images\image-20241112171739469.png)
+![Image text](https://github.com/yangliang200517/images/blob/main/gantt1.jpg)
