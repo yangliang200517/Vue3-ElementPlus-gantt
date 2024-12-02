@@ -15,3 +15,4 @@ This demo only shows everyone's project. There are some shortcomings, please poi
 
 ![Image text](https://github.com/yangliang200517/images/blob/main/gantt1.jpg)
 ![Image text](https://github.com/yangliang200517/images/blob/main/gantt2.jpg)
+![Image text](https://github.com/yangliang200517/images/blob/main/gantt3.jpg)
